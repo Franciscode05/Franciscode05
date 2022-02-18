@@ -1,0 +1,131 @@
+/*https://stackoverflow.com/questions/62244216/bootstrap-classes-for-specific-breakpoints*/
+
+svg{
+    color: #FAF1E6;
+    color: #fb6201;
+    color: #69A614;
+    color: #01937C;
+}
+
+
+.textoTitulo{
+    font-family: 'Rubik', sans-serif;
+    font-size: 70px;
+    color: #69A614;
+}
+
+.caracter{
+    color: #01937C;
+}
+
+.containerRow{
+    background-color: #69A614;
+    color: #FAF1E6;
+}
+
+.containerList{
+    background-color: #FAF1E6;
+}
+
+.containerList ul{
+    color: #01937C;
+}
+
+.widthText{
+    width: 50%;
+}
+
+.subTexto{
+    color:#01937C;
+    font-size: 50px;
+}
+
+.strongText{
+    color:#01937C;
+}
+
+.containerImg{
+    width: 30%;
+}
+
+.subTitulo{
+    font-family: 'Rubik', sans-serif;
+}
+
+.boton p{
+    background-color: #fb6201;
+    width: 180px;
+    color: #FAF1E6;
+    font-size: 25px;
+    padding: 4px;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.botonUp{
+    background-color: #fb6201;
+    color: #FAF1E6;
+}
+
+.boton{
+    text-decoration: none;
+}
+
+.wImg{
+    width: 100%;
+}
+
+.containerFooter{
+    background-color: #01937C;
+}
+
+.containerFooter p{
+    color: #FAF1E6;
+}
+
+.clausula{
+    font-size:1vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.svgImg{
+    fill: #FAF1E6;
+}
+
+.containerForm{
+    background-color:#69A614;
+    color: #FAF1E6;
+}
+
+.form-text{
+    color: #FAF1E6;
+}
+
+.btn{
+    background-color: #01937C;
+    color: #FAF1E6;
+}
+
+.subForm{
+    padding: 10px;
+}
+
+@media screen and (max-width:600px) {
+
+    .wImg{
+        width: 80%;
+    }
+
+    .widthText{
+        width: 75%;
+    }
+
+    .subTexto{
+        font-size: 35px;
+    }
+
+    .containerImg{
+        width: 50%;
+    }
+    
+}
